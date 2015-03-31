@@ -1,0 +1,63 @@
+__pycache__
+
+*.yaml
+*.log
+*.csv
+*.py[cod]
+*.pem
+**/vagrant
+.vagrant/
+Vagrantfile
+
+# Celery
+celerybeat-schedule
+
+# C extensions
+*.so
+*.a
+
+# Packages
+*.egg
+*.egg-info
+dist
+build
+eggs
+parts
+bin
+var
+sdist
+develop-eggs
+.installed.cfg
+lib
+lib64
+
+# Installer logs
+pip-log.txt
+
+# Unit test / coverage reports
+.coverage
+.tox
+nosetests.xml
+
+# NodeJS
+bower_components/
+node_modules/
+
+# PyCharm
+.idea
+
+# Sublime
+.codeintel
+*.sublime-*
+
+# vim
+.swp
+
+# Vagrant
+.vagrant/
+
+# log
+server/log/
+
+# sandbox
+# sandbox/

@@ -1,0 +1,8 @@
+app.get DICeklVLyYd6oQX7uKqZkFjlYu1aYA6H5h7iwirjsT4=
+app.post Kzc3goLFylZxxQjsxCosL72WQSDuLnFDDjK_cz_xHsI=
+app.put C6UTxHfDu3w_hAUqqHqxvc925uWLgKeU0kXj0CfuS7k=
+app.delete EIIVGIu2oY6Jc9S60I__Ehaw3d4HRuizW3qEx118dJc=
+user.get YY76_DaeF0HjTz-xcdfUFIbiSYGOGwTTX9psbNr_A5g=
+user.post pxTt-zgBuNOkOdWEx1xj0HUPSgyN4HYtVxyLV6PKgvc=
+user.put zWCoPblWn7Y0HQr1m1aZdPj6jIZ1pwe8OX4apaLv-3w=
+user.delete fdDJ4yOOYvNX7_e8d4Gd7ai1r4QvYxRv1MVZe7KhU9A=
