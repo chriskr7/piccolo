@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #
-# Copyright (c) 2015 SNMP, Inc.
+# Copyright (c) 2015 FingerApp Studio, Inc.
 
 from boto import sqs
 from boto.sqs.message import Message

@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 #
-# Copyright (c) 2015 SNMP, Inc.
+# Copyright (c) 2015 FingerApp Studio, Inc.
 
 import sys
 import json
