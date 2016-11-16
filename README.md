@@ -2,4 +2,4 @@
 
 Push Server for apns, gcm
 
-After modifying & adding some features, I will make this project to open-source!
+-- Deprecated, No more Updates, Better to use Amazon SNS
