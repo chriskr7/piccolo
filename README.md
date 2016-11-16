@@ -2,4 +2,4 @@
 
 Push Server for apns, gcm
 
--- Deprecated, No more Updates, Better to use Amazon SNS
+-- Deprecated, No more updates, Better to use Amazon SNS
